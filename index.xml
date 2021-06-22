@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anka Design Studio</title>
+    <link>https://ankadesignstudio.com/</link>
+    <description>Recent content on Anka Design Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ankadesignstudio.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ashburton</title>
+      <link>https://ankadesignstudio.com/portfolio/ashburton/</link>
+      <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ankadesignstudio.com/portfolio/ashburton/</guid>
+      <description>This 1920s Californian bungalow in the heart of Ashburton was completely transformed into a beautiful grand home with each area serving a purpose.
+A minimalistic design ensured the Carrara marble and ravine joinery were the standout heroes while re-instating the character of the home by keeping the dental cornicing, original lead-light windows and whitewashed original hardwood flooring.</description>
+    </item>
+    
+    <item>
+      <title>Albert Park - Coming Soon</title>
+      <link>https://ankadesignstudio.com/portfolio/albert_park/</link>
+      <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ankadesignstudio.com/portfolio/albert_park/</guid>
+      <description>Coming soon.</description>
+    </item>
+    
+  </channel>
+</rss>
